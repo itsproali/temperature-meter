@@ -1,3 +1,3 @@
-# Current Temperature
+# Temperature Meter
 
-## [https://itsproali.github.io/current-temperature/](https://itsproali.github.io/current-temperature/)
+## [https://itsproali.github.io/temperature-meter/](https://itsproali.github.io/temperature-meter/)
